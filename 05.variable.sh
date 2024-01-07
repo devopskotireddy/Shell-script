@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "Please type your USERANME"
+echo "Please type your USERANME::"
 read -s $USERANME
-echo "Please type your PASSWORD"
+echo "Please type your PASSWORD::"
 read -s $PASSWORD
-#echo "username is: $USERNAME"
+#echo "username is: $USERNAME, PASSWORD is $PASSWORD"
+
