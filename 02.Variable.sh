@@ -1,5 +1,8 @@
 #!/bin/bash
 
-    echo "Ramesh" "Good morning Suresh"
-    echo "Suresh" " Very Good morning Ramesh"
-    echo "Ramesh" " How r you Suresh"
+   PERSON1=Ram
+   PERSON2=koti
+
+    echo "$PERSON1" "Good morning"
+    echo "$PERSON2" " Very Good morning"
+    echo "$PERSON1" " How r you"
